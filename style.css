@@ -76,7 +76,7 @@ footer{
 }
 /* media query */
 
-@media screen  and (max-width:550px){
+@media screen  and (max-width:650px){
     #title{
         text-align: center;
     }
